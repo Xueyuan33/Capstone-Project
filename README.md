@@ -9,22 +9,16 @@ We appreciate your interest and understanding in this matter. We are committed t
 Thank you for respecting these limitations.
 
 
-
-
-
 ## Deep Learning Models for Medical Image Segmentation
 
-This repository hosts the implementation and results of our research on employing deep learning models, specifically SAM-L and All-in-SAM, for segmenting cell classes in high-resolution whole slide images (WSIs). Our work demonstrates the feasibility of using non-expert annotations without significantly compromising segmentation quality.
+This repository hosts the implementation and results of our research on employing deep learning models. Our work demonstrates the feasibility of using non-expert annotations without significantly compromising segmentation quality.
 
 ## Research Overview
 
-Our study addresses the challenges in biomedical image segmentation, particularly the heavy reliance on extensive annotated datasets. We propose and evaluate two methodologies, SAM-L and All-in-SAM, which leverage weak annotations to produce accurate, pixel-level segmentation, thereby reducing the annotation burden and enhancing model accessibility.
+Our study addresses the challenges in biomedical image segmentation, particularly the heavy reliance on extensive annotated datasets. We propose and evaluate two methodologies, which leverage weak annotations to produce accurate, pixel-level segmentation, thereby reducing the annotation burden and enhancing model accessibility.
 
 ## Key Findings
 
-Non-expert annotations can be effectively utilized in deep learning segmentation models without substantial loss in quality.
-The All-in-SAM and MOCL methods allow for less precise annotations, broadening the practical application of WSIs in clinical and research settings.
-Our approach significantly mitigates the reliance on voluminous training datasets, making high-quality biomedical image analysis more feasible in resource-constrained environments.
 
 ## Getting Started
 
